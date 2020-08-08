@@ -1,4 +1,4 @@
-extend Memorable
+extend Memorable::ClassMethods
 require 'pry'
 
 class Song
