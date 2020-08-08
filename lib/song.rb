@@ -1,3 +1,4 @@
+extend Memorable
 require 'pry'
 
 class Song
