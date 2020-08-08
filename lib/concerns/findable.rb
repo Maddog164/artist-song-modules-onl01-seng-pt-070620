@@ -6,6 +6,6 @@ module Findable
     end
 
 
-  end
+  end #module ClassMethods
 
 end
